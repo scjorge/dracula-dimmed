@@ -1,0 +1,35 @@
+{
+  "name": "dracula-dimmed",
+  "displayName": "Dracula Dimmed",
+  "description": "Visual Studio Code theme Extension inspired by Dracula and Github theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"dracula",
+    "github",
+    "dimmed",
+		"dark",
+		"theme",
+		"color-theme"
+	],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/scjorge/dracula-dimmed.git"
+	},
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-dimmed-color-theme.json"
+      }
+    ]
+  }
+}
