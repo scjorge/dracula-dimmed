@@ -6,9 +6,9 @@ This is a mix I made to Dracula Soft and Github Dimmed.
 
 I hope you enjoyed 😉
 
-![screenshot-editor](screenshot-editor.png)
+![screenshot-editor](https://raw.githubusercontent.com/scjorge/dracula-dimmed/master/screenshot-editor.png)
 
-![screenshot-code](screenshot-code.png)
+![screenshot-code](https://raw.githubusercontent.com/scjorge/dracula-dimmed/master/screenshot-code.png)
 
 ## Install
 
