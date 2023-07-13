@@ -1,59 +1,5 @@
 {
-    "$schema": "vscode://schemas/color-theme",
-    "name": "Dracula Dimmed",
-    "author": "Jorge Silva",
-    "maintainers": [
-        "Jorge Silva <jorgesilva.ti@hotmail.com>"
-    ],
-    "semanticClass": "theme.dracula",
     "semanticHighlighting": true,
-    "dracula": {
-        "base": [
-            "#282A36",
-            "#F8F8F2",
-            "#44475A",
-            "#6272A4",
-            "#8BE9FD",
-            "#50FA7B",
-            "#FFB86C",
-            "#FF79C6",
-            "#BD93F9",
-            "#FF5555",
-            "#F1FA8C"
-        ],
-        "ansi": [
-            "#21222C",
-            "#FF5555",
-            "#50FA7B",
-            "#F1FA8C",
-            "#BD93F9",
-            "#FF79C6",
-            "#8BE9FD",
-            "#F8F8F2",
-            "#6272A4",
-            "#FF6E6E",
-            "#69FF94",
-            "#FFFFA5",
-            "#D6ACFF",
-            "#FF92DF",
-            "#A4FFFF",
-            "#FFFFFF"
-        ],
-        "brightOther": [
-            "#E9F284",
-            "#8BE9FE"
-        ],
-        "other": [
-            "#44475A75",
-            "#FFFFFF1A",
-            "#FFFFFF",
-            "#44475A70",
-            "#424450",
-            "#343746",
-            "#21222C",
-            "#191A21"
-        ]
-    },
     "colors": {
         "terminal.background": "#1c2128",
         "terminal.border": "#BF9EEE",
@@ -650,7 +596,6 @@
                 "keyword.operator.function.infix"
             ],
             "settings": {
-                //"foreground": "#62e884"//aqui
                 "foreground": "#4fdf78"
             }
         },
@@ -696,7 +641,6 @@
                 "punctuation.definition.keyword"
             ],
             "settings": {
-                //"foreground": "#f286c4" //aqui
                 "foreground": "#E086C4"
             }
         },
@@ -869,7 +813,6 @@
             ],
             "settings": {
                 "fontStyle": "regular",
-                //"foreground": "#f286c4"//aqui
                 "foreground": "#E086C4"
             }
         },
