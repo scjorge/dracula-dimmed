@@ -1,16 +1,28 @@
-# dracula-github README
+# Dracula Dimmed
 
-## Working with Markdown
+This theme is based on [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) and [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This is a mix I made to Dracula Soft and Github Dimmed.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+I hope you enjoyed 😉
 
-## For more information
+![screenshot-editor](screenshot-editor.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![screenshot-code](screenshot-code.png)
 
-**Enjoy!**
+## Install
+
+1. Go to View -> Command Palette or press ⌘+shift+P
+2. Then enter Install Extension
+3. Write theme-dracula-dimmed
+4. Select it or press Enter to install
+
+## License
+
+[MIT License](https://github.com/scjorge/dracula-dimmed/blob/master/LICENSE)
+
+## Team
+
+This theme is maintained by:
+
+[Jorge Silva](https://github.com/scjorge)
