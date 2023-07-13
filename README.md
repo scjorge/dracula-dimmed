@@ -12,7 +12,7 @@ I hope you enjoyed 😉
 
 ## Install
 
-1. Go to View -> Command Palette or press ⌘+shift+P
+1. Go to View -> Command Palette or press ctrl+shift+P
 2. Then enter Install Extension
 3. Write theme-dracula-dimmed
 4. Select it or press Enter to install
