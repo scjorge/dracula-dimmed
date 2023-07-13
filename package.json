@@ -1,12 +1,15 @@
 {
-  "name": "dracula-dimmed",
+  "name": "theme-dracula-dimmed",
   "displayName": "Dracula Dimmed",
-  "description": "Visual Studio Code theme Extension inspired by Dracula and Github theme",
+  "description": "Theme inspired by Dracula and Github",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.13.0"
   },
   "license": "MIT",
+  "maintainers": [
+		"Jorge Silva <jorgesilva.ti@hotmail.com>"
+	],
   "categories": [
     "Themes"
   ],
