@@ -7,6 +7,7 @@
     "vscode": "^1.13.0"
   },
   "license": "MIT",
+  "publisher": "scjorge",
   "maintainers": [
 		"Jorge Silva <jorgesilva.ti@hotmail.com>"
 	],
