@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.1
+
+- Update icon
+- fix text color white
+
 ## 0.1.0
 
 - Update editor color
