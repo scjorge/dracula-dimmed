@@ -2,7 +2,7 @@
   "name": "theme-dracula-dimmed",
   "displayName": "Dracula Dimmed",
   "description": "Theme inspired by Dracula and Github",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.13.0"
   },
